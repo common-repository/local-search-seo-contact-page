@@ -1,0 +1,61 @@
+
+/**************************************
+** Built in CSS Class Names
+
+.ebs-seo-cp{}
+.ebs-seo-cp-container{}
+.ebs-seo-cp-image-container{}
+.ebs-seo-cp-image{}
+.ebs-seo-cp-logo-container{}
+.ebs-seo-cp-logo{}
+
+.ebs-seo-cp-name{}
+.ebs-seo-cp-address {}
+.ebs-seo-cp-street-address{}
+.ebs-seo-cp-locality{}
+.ebs-seo-cp-region{}
+.ebs-seo-cp-postal-code{}
+.ebs-seo-cp-country{}
+.ebs-seo-cp-telephone{}
+.ebs-seo-cp-email{}
+
+.ebs-seo-cp-hours{}
+.ebs-seo-cp-dayname {}
+.ebs-seo-cp-hoursout{}
+
+.ebs-seo-cp-social-media-container {}
+.ebs-seo-cp-social-media-link {}
+.ebs-seo-cp-social-media-link-image {}
+
+.ebs-seo-cp-map-container {}
+
+**************************************/
+
+.ebs-seo-cp-image-container, .ebs-seo-cp-logo-container{
+	text-align: center;
+}
+
+.ebs-seo-cp-telephone, .ebs-seo-cp-email {
+	font-weight:bold;
+}
+
+.ebs-seo-cp-hours, .ebs-seo-cp-name{
+	font-weight:bold;
+	text-transform: uppercase;
+}
+
+.ebs-seo-cp-social-media-container {
+	padding: 10px 0;
+	text-align: center;
+}
+.ebs-seo-cp-social-media-link {
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	display:initial !important;
+}
+.ebs-seo-cp-social-media-link-image {
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	display:initial !important;
+
+}

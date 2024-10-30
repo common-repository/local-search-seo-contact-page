@@ -1,0 +1,27 @@
+/*#postbox-container-3 {
+    float:none;
+} 
+#post-head #head-sortables {
+    min-height:50px;
+}
+#postbox-container-4 {
+    float:none;
+} 
+#post-body #above-sortables {
+    min-height:50px;
+}*/
+
+#minor-publishing {
+	display: none;
+}
+tr:nth-child(odd) {
+    background: white;
+}
+tr:nth-child(even) {
+    background:#f1f1f1;
+}
+/*
+body.post-type-ebs_location > div#wpwrap > div#wpcontent > div#wpbody > div#wpbody-content > div.wrap >  a.page-title-action {
+    display:none; 
+}
+*/
